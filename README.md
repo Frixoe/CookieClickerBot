@@ -28,10 +28,12 @@ To use this bot you will need to install both the libraries(with their respectiv
 > NOTE: While using `pip` all the other dependencies of both the libraries will be downloaded.
 
 ## Intended Usage
-This bot is not intended for a long time usage as you need to click on upgrades periodically to drastically boost production. This bot does not boost production drastically.
+This bot is not intended for usage over a long period of time as you need to click on upgrades periodically to drastically boost production. This bot does not boost production drastically.
+
+It is however quite useful to get started with a Cookie Clicker session.
 
 ## Initial Restrictions
 Initially this bot was meant to locate the buttons on screen using screenshots of the buttons input by the user. The feature was removed due to the following reasons:
 1. Time taken to locate the images would vary with the speed of the machine.
 2. Some buttons would get recognized even when they were not active.
-3. Taking a screenshot of all the buttons visible on the screen was tedious and if not done properly would endanger the bots accuracy.
+3. Taking a screenshot of all the buttons visible on the screen was tedious and if not done properly would hinder the bots accuracy.
